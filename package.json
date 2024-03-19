@@ -1,0 +1,30 @@
+{
+  "name": "carolscott-code",
+  "version": "1.0.0",
+  "description": "Carolscott-code is a Node.js module for fetching news headlines from a website and generating random passwords.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CarolScott3688977/carolscott-code"
+  },
+  "dependencies": {
+	  "js-edwardcollins": "1.0.0",
+"func-pp06": "1.0.0",
+"sandrajones": "1.0.0",
+"jakea-lk": "1.0.0",
+"susanmartin-config": "1.0.0",
+"marikovmailbory-sdk": "1.0.0",
+"denisgorlov-math": "1.0.0",
+    "axios": "^0.24.0",
+    "cheerio": "^1.0.0-rc.11"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarolScott3688977/carolscott-code/issues"
+  },
+  "homepage": "https://github.com/CarolScott3688977/carolscott-code#readme"
+}
